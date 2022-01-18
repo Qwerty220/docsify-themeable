@@ -31,6 +31,8 @@
 
 - **Legacy browser support (IE10+)**<br>
   Thoroughly tested and fully compatible with legacy browsers, including support for CSS custom properties (courtesy of a handy [ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill) developed specifically for docsify-themeable).
+  
+  [filename](https://cdn.jsdelivr.net/npm/docsify-drawio/test.drawio ':include :type=code')
 
 ?> Like docsify-themeable? Be sure to check out [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs)!
 
